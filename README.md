@@ -1,4 +1,4 @@
-# vm detect
+# vmdblock
 
 A minimal static site that runs a client-side VM detector on page load.
 
